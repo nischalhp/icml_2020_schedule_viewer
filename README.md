@@ -20,6 +20,8 @@ You know have an environment to use the notebooks. To interactively run the cale
 
 ![](https://github.com/nischalhp/icml_2020_schedule_viewer/blob/master/day_filter.gif)
 
+![](https://github.com/nischalhp/icml_2020_schedule_viewer/blob/master/date_type.gif)
 
 
-Enjoy the conference :)
+
+Enjoy the conference everybodys :)
