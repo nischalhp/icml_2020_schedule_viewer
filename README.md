@@ -18,4 +18,8 @@ You know have an environment to use the notebooks. To interactively run the cale
 
 `jupyter notebook` and open the notebook `icml_2020_interactive_schedule`
 
+![](https://github.com/nischalhp/icml_2020_schedule_viewer/blob/master/day_filter.gif)
+
+
+
 Enjoy the conference :)
